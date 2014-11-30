@@ -13,7 +13,7 @@ using System.Web;
 namespace AngularJSAuthentication.API
 {
 
-    public class AuthRepository : IDisposable
+    public class AuthRepository : IDisposable 
     {
         private AuthContext _ctx;
 
